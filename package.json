@@ -1,0 +1,28 @@
+{
+  "name": "node-jenkins-test",
+  "version": "1.0.0",
+  "description": "Jenkins CI test using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadoohd/node-jenkins-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadoohd/node-jenkins-test/issues"
+  },
+  "homepage": "https://github.com/kadoohd/node-jenkins-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2",
+    "supertest": "^2.0.1"
+  }
+}
