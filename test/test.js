@@ -1,6 +1,4 @@
-//test file
-//test file
-
+//test
 var supertest = require("supertest");
 var should = require("should");
 
