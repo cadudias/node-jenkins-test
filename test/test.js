@@ -1,4 +1,4 @@
-//test 7
+// test mocha
 var supertest = require("supertest");
 var should = require("should");
 
